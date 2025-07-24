@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+*.env
+
+# PyCharm project files
+.idea/
+
+# Streamlit cache and logs
+.streamlit/
+.cache/
+logs/
+
+# Output files
+test_predictions.csv
+
+# Windows system files
+Thumbs.db
+
+# Python build files
+*.egg-info/
+dist/
+build/
+.eggs/
